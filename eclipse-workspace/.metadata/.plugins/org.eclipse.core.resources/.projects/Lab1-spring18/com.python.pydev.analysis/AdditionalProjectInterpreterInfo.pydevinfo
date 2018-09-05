@@ -1,0 +1,25 @@
+-- VERSION_4
+-- START DISKCACHE_2
+/Users/lavonnehoang/eclipse-workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Lab1-spring18/com.python.pydev.analysis/v2_indexcache
+CountingStars|1516833503000000000|/Users/lavonnehoang/eclipse-workspace/Lab1-spring18/CountingStars.py
+Multiprint|1516597368000000000|/Users/lavonnehoang/eclipse-workspace/Lab1-spring18/Multiprint.py
+-- END DISKCACHE
+-- START DICTIONARY
+2
+2=CountingStars
+1=Multiprint
+-- END DICTIONARY
+-- START TREE 1
+8
+cou|2|countprint!10@count!11@
+f1|1|f1!10@
+f2|1|f2!10@
+hig|1|high!19@
+lin|1|line!18@
+low|1|low!19@
+ver|1|verse!10@
+wor|1|word!11@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

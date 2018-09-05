@@ -1,0 +1,50 @@
+-- VERSION_4
+-- START DISKCACHE_2
+/Users/lavonnehoang/eclipse-workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Assign3-Transform/com.python.pydev.analysis/v2_indexcache
+Vowelizer|1519796940000000000|/Users/lavonnehoang/eclipse-workspace/Assign3-Transform/Vowelizer.py
+Shuffleizer|1519919183000000000|/Users/lavonnehoang/eclipse-workspace/Assign3-Transform/Shuffleizer.py
+SimpleJotto|1520619690000000000|/Users/lavonnehoang/eclipse-workspace/Assign3-Transform/SimpleJotto.py
+PigLatin|1520466068000000000|/Users/lavonnehoang/eclipse-workspace/Assign3-Transform/PigLatin.py
+Transform|1520464953000000000|/Users/lavonnehoang/eclipse-workspace/Assign3-Transform/Transform.py
+CaesarCipher|1520466068000000000|/Users/lavonnehoang/eclipse-workspace/Assign3-Transform/CaesarCipher.py
+-- END DISKCACHE
+-- START DICTIONARY
+6
+4=Vowelizer
+2=SimpleJotto
+6=Shuffleizer
+3=PigLatin
+1=Transform
+5=CaesarCipher
+-- END DICTIONARY
+-- START TREE 1
+25
+cle|1|clean!10@
+com|1|commonCount!18@
+dec|2|decrypt!26@decrypt!34@
+dot|1|doTransform!10@
+dw|1|dw!35@
+enc|4|encrypt!42@encrypt!26@encrypt!34@encrypt!50@
+ew|2|ew!35@ew!43@
+ewo|1|ewords!35@
+f|1|f!43@
+fin|1|findShift!42@
+ind|1|indexFirstVowel!26@
+isv|1|isVowel!34@
+loa|1|loadlower!34@
+low|2|lower_alph!43@lowerwords!35@
+nov|1|novowels!35@
+pla|1|playGame!18@
+rea|1|readFileAsLines!10@
+roo|1|root!11@
+set|1|setShift!42@
+shi|3|shifted_upper!43@shift!43@shifted_lower!43@
+st|1|st!43@
+upp|1|upper_alph!43@
+w|1|w!43@
+wor|2|words!35@words!51@
+wri|1|writeFileAsLines!10@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

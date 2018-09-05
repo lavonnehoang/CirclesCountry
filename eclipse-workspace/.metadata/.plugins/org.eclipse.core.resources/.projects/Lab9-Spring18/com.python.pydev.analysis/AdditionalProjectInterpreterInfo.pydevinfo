@@ -1,0 +1,33 @@
+-- VERSION_4
+-- START DISKCACHE_2
+/Users/lavonnehoang/eclipse-workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Lab9-Spring18/com.python.pydev.analysis/v2_indexcache
+TemplateChooser|1522725248000000000|/Users/lavonnehoang/eclipse-workspace/Lab9-Spring18/TemplateChooser.py
+Replacements|1522734164000000000|/Users/lavonnehoang/eclipse-workspace/Lab9-Spring18/Replacements.py
+Storyline|1522728492000000000|/Users/lavonnehoang/eclipse-workspace/Lab9-Spring18/Storyline.py
+PathTemplateChooser|1522730516000000000|/Users/lavonnehoang/eclipse-workspace/Lab9-Spring18/PathTemplateChooser.py
+-- END DISKCACHE
+-- START DICTIONARY
+4
+1=TemplateChooser
+3=Replacements
+4=Storyline
+2=PathTemplateChooser
+-- END DICTIONARY
+-- START TREE 1
+12
+cho|2|chooseOne!10@chooseOne!18@
+d|1|d!27@
+dir|2|dirToDictionary!18@dirToDictionary!10@
+dow|1|doWord!34@
+ds|1|ds!27@
+get|3|getTemplateLines!18@getReplacement!26@getTemplateLines!10@
+js|1|js!27@
+lin|3|linesToStory!34@lines!11@lines!19@
+mak|1|makeStory!34@
+pro|1|processFile!26@
+rea|5|reader!18@reader!10@readAndStore!26@readDirectory!26@readjson!26@
+rep|1|repd!27@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

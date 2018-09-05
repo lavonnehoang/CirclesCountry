@@ -1,0 +1,24 @@
+-- VERSION_4
+-- START DISKCACHE_2
+/Users/lavonnehoang/eclipse-workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/101-assign1-totem/com.python.pydev.analysis/v2_indexcache
+Totem|1517341254000000000|/Users/lavonnehoang/eclipse-workspace/101-assign1-totem/Totem.py
+-- END DISKCACHE
+-- START DICTIONARY
+1
+1=Totem
+-- END DICTIONARY
+-- START TREE 1
+9
+chi|3|chin_plain!10@chin_combo!10@chin_curvy!10@
+eye|3|eye_narrow!10@eye_wide!10@eye_heart!10@
+hai|3|hair_buzz!10@hair_spiky!10@hair_longer!10@
+hea|6|head_with_chin!10@head_hearteyes!10@head_surprised!10@head_with_eyes_and_mouth!10@head_plain!10@head_with_hair!10@
+mou|3|mouth_open!10@mouth_tongue!10@mouth_smile!10@
+nos|3|nose_leftwards!10@nose_triangle!10@nose_rightwards!10@
+ran|1|random_head!10@
+sel|2|selfie_band!10@selfie!10@
+tot|3|totem_random!10@totem_selfie!10@totem_fixed!10@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

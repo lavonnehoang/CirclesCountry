@@ -1,0 +1,37 @@
+-- VERSION_4
+-- START DISKCACHE_2
+/Users/lavonnehoang/eclipse-workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/APT5/com.python.pydev.analysis/v2_indexcache
+VenmoTracker|1521559309000000000|/Users/lavonnehoang/eclipse-workspace/APT5/VenmoTracker.py
+MemberCheck|1521653951000000000|/Users/lavonnehoang/eclipse-workspace/APT5/MemberCheck.py
+SimpleWordGame|1521573846000000000|/Users/lavonnehoang/eclipse-workspace/APT5/SimpleWordGame.py
+WordCompositionGame|1521652124000000000|/Users/lavonnehoang/eclipse-workspace/APT5/WordCompositionGame.py
+Common|1521691001000000000|/Users/lavonnehoang/eclipse-workspace/APT5/Common.py
+-- END DISKCACHE
+-- START DICTIONARY
+5
+5=VenmoTracker
+2=SimpleWordGame
+3=MemberCheck
+4=WordCompositionGame
+1=Common
+-- END DICTIONARY
+-- START TREE 1
+14
+cou|1|count!10@
+d|1|d!19@
+l1|1|l1!27@
+l2|1|l2!27@
+l3|1|l3!27@
+lis|3|listB!35@listA!35@listC!35@
+net|1|networth!42@
+p|1|p!19@
+poi|1|points!18@
+sco|1|score!34@
+tr|1|tr!43@
+w1|1|w1!11@
+w2|1|w2!11@
+who|1|whosDishonest!26@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

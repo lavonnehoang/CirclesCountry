@@ -1,0 +1,26 @@
+-- VERSION_4
+-- START DISKCACHE_2
+/Users/lavonnehoang/eclipse-workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/APT_3/com.python.pydev.analysis/v2_indexcache
+SentenceLength|1518637987000000000|/Users/lavonnehoang/eclipse-workspace/APT_3/SentenceLength.py
+Piglatin|1518635523000000000|/Users/lavonnehoang/eclipse-workspace/APT_3/Piglatin.py
+CreateAcronym|1518651415000000000|/Users/lavonnehoang/eclipse-workspace/APT_3/CreateAcronym.py
+LastNameFirst|1518650950000000000|/Users/lavonnehoang/eclipse-workspace/APT_3/LastNameFirst.py
+-- END DISKCACHE
+-- START DICTIONARY
+4
+2=SentenceLength
+3=Piglatin
+1=CreateAcronym
+4=LastNameFirst
+-- END DICTIONARY
+-- START TREE 1
+5
+acr|1|acronym!10@
+ave|1|average!18@
+con|1|convert!26@
+ind|1|indexFirstVowel!26@
+mod|1|modify!34@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

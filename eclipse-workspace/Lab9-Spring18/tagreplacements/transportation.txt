@@ -1,0 +1,11 @@
+car
+bus
+plane
+train
+walk
+bike
+moped
+motorcycle
+limousine
+taxi
+uber

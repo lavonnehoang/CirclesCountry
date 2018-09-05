@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?pydev-testrun version="1.0"?><pydev-testsuite>
+    <summary errors="0" failures="1" finished="true" name="Test Run: 5" tests="10" total_time="Finished in: 0.00 secs."/>
+    <test location="/Users/lavonnehoang/eclipse-workspace/Assignment 5: Clever Hangman/CleverHangmanTesting.py" status="ok" test="TestCreateTemplate.testAlmostDoneTemplateLetterIsInWord" time="0.00">
+        <stdout/>
+        <stderr/>
+    </test>
+    <test location="/Users/lavonnehoang/eclipse-workspace/Assignment 5: Clever Hangman/CleverHangmanTesting.py" status="ok" test="TestCreateTemplate.testAlmostDoneTemplateLetterNotInWord" time="0.00">
+        <stdout/>
+        <stderr/>
+    </test>
+    <test location="/Users/lavonnehoang/eclipse-workspace/Assignment 5: Clever Hangman/CleverHangmanTesting.py" status="ok" test="TestCreateTemplate.testBlankTemplateLetterIsInWord" time="0.00">
+        <stdout/>
+        <stderr/>
+    </test>
+    <test location="/Users/lavonnehoang/eclipse-workspace/Assignment 5: Clever Hangman/CleverHangmanTesting.py" status="ok" test="TestCreateTemplate.testBlankTemplateLetterNotInWord" time="0.00">
+        <stdout/>
+        <stderr/>
+    </test>
+    <test location="/Users/lavonnehoang/eclipse-workspace/Assignment 5: Clever Hangman/CleverHangmanTesting.py" status="ok" test="TestCreateTemplate.testNonBlankTemplateLetterIsInWord" time="0.00">
+        <stdout/>
+        <stderr/>
+    </test>
+    <test location="/Users/lavonnehoang/eclipse-workspace/Assignment 5: Clever Hangman/CleverHangmanTesting.py" status="ok" test="TestCreateTemplate.testNonBlankTemplateLetterNotInWord" time="0.00">
+        <stdout/>
+        <stderr/>
+    </test>
+    <test location="/Users/lavonnehoang/eclipse-workspace/Assignment 5: Clever Hangman/CleverHangmanTesting.py" status="ok" test="TestGetNewWordList.testNoChoicesLeft" time="0.00">
+        <stdout/>
+        <stderr/>
+    </test>
+    <test location="/Users/lavonnehoang/eclipse-workspace/Assignment 5: Clever Hangman/CleverHangmanTesting.py" status="fail" test="TestGetNewWordList.testPreventGuess" time="">
+        <stdout/>
+        <stderr>
+            <![CDATA[Traceback (most recent call last):
+  File "/Users/lavonnehoang/eclipse-workspace/Assignment 5: Clever Hangman/CleverHangmanTesting.py", line 76, in testPreventGuess
+    self.outline('tri_', 'm', words, 'tri_', {'trio'})
+  File "/Users/lavonnehoang/eclipse-workspace/Assignment 5: Clever Hangman/CleverHangmanTesting.py", line 51, in outline
+    self.assertEqual(result[0], expectTemplate, msg)
+AssertionError: 'trim' != 'tri_'
+- trim
+?    ^
++ tri_
+?    ^
+ : Called getNewWordList('tri_', 'm', ['trim', 'trio']), expected template: "tri_" got: "trim"
+]]>
+        </stderr>
+    </test>
+    <test location="/Users/lavonnehoang/eclipse-workspace/Assignment 5: Clever Hangman/CleverHangmanTesting.py" status="ok" test="TestGetNewWordList.testShouldKeepCurrTemplate" time="0.00">
+        <stdout/>
+        <stderr/>
+    </test>
+    <test location="/Users/lavonnehoang/eclipse-workspace/Assignment 5: Clever Hangman/CleverHangmanTesting.py" status="ok" test="TestGetNewWordList.testShouldNotKeepCurrTemplate" time="0.00">
+        <stdout/>
+        <stderr/>
+    </test>
+    <launch mode="run">
+        <launch_memento>
+            <![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration local="true" path="Assignment 5_ Clever Hangman CleverHangmanTesting.py"/>
+]]>
+        </launch_memento>
+    </launch>
+</pydev-testsuite>

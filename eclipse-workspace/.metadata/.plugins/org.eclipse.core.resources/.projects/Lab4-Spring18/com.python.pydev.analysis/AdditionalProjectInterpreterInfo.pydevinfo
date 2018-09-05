@@ -1,0 +1,32 @@
+-- VERSION_4
+-- START DISKCACHE_2
+/Users/lavonnehoang/eclipse-workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Lab4-Spring18/com.python.pydev.analysis/v2_indexcache
+Collatz|1519063730000000000|/Users/lavonnehoang/eclipse-workspace/Lab4-Spring18/Collatz.py
+MorseLikeCode|1519250754000000000|/Users/lavonnehoang/eclipse-workspace/Lab4-Spring18/MorseLikeCode.py
+RandomWalker|1519252659000000000|/Users/lavonnehoang/eclipse-workspace/Lab4-Spring18/RandomWalker.py
+-- END DISKCACHE
+-- START DICTIONARY
+3
+1=Collatz
+2=MorseLikeCode
+3=RandomWalker
+-- END DICTIONARY
+-- START TREE 1
+13
+ana|1|analyze!10@
+dec|1|decrypt!18@
+gco|1|gcolor!26@
+hai|1|hailstone!10@
+lib|1|library!19@
+mes|1|message!19@
+sim|1|simulate!26@
+siz|1|size!27@
+tra|1|transform!18@
+tri|1|trials!27@
+tur|1|turt!27@
+wal|1|walk!26@
+wn|1|wn!27@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Assign3-Transform/data/lowerwords&apos; to &apos;lowerwords.txt&apos;" description="Rename resource &apos;lowerwords&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="data/lowerwords" name="lowerwords.txt" stamp="1520407555754" updateReferences="true"/>
+</session>

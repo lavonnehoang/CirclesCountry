@@ -1,0 +1,33 @@
+-- VERSION_4
+-- START DISKCACHE_2
+/Users/lavonnehoang/eclipse-workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/APT2/com.python.pydev.analysis/v2_indexcache
+TotalWeight|1517457682000000000|/Users/lavonnehoang/eclipse-workspace/APT2/TotalWeight.py
+IsSpecial|1518104212000000000|/Users/lavonnehoang/eclipse-workspace/APT2/IsSpecial.py
+RemoveMiddle|1517453485000000000|/Users/lavonnehoang/eclipse-workspace/APT2/RemoveMiddle.py
+DNAcgratio|1517853928000000000|/Users/lavonnehoang/eclipse-workspace/APT2/DNAcgratio.py
+ScoreIt|1518104876000000000|/Users/lavonnehoang/eclipse-workspace/APT2/ScoreIt.py
+-- END DISKCACHE
+-- START DICTIONARY
+5
+5=TotalWeight
+1=IsSpecial
+4=RemoveMiddle
+3=DNAcgratio
+2=ScoreIt
+-- END DICTIONARY
+-- START TREE 1
+10
+con|1|contains!10@
+get|1|getscore!18@
+lov|1|lovely!10@
+max|1|maxPoints!18@
+rat|1|ratio!26@
+sho|1|shorten!34@
+w|1|w!27@
+wei|1|weight3!42@
+x|1|x!11@
+y|1|y!11@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

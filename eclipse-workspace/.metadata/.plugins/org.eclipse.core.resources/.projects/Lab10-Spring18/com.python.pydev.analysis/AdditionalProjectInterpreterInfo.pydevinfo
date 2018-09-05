@@ -1,0 +1,20 @@
+-- VERSION_4
+-- START DISKCACHE_2
+/Users/lavonnehoang/eclipse-workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Lab10-Spring18/com.python.pydev.analysis/v2_indexcache
+DataReader|1524086187000000000|/Users/lavonnehoang/eclipse-workspace/Lab10-Spring18/DataReader.py
+-- END DISKCACHE
+-- START DICTIONARY
+1
+1=DataReader
+-- END DICTIONARY
+-- START TREE 1
+5
+bus|1|busiest!10@
+get|1|get_header!10@
+mos|1|most_cancelled!10@
+ont|1|ontime!10@
+res|1|results!11@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

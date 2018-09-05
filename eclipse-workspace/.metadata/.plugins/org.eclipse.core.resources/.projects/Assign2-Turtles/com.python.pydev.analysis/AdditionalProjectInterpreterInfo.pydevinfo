@@ -1,0 +1,36 @@
+-- VERSION_4
+-- START DISKCACHE_2
+/Users/lavonnehoang/eclipse-workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Assign2-Turtles/com.python.pydev.analysis/v2_indexcache
+Snowpeople|1518548743000000000|/Users/lavonnehoang/eclipse-workspace/Assign2-Turtles/Snowpeople.py
+SimpleDrawRow|1517976336000000000|/Users/lavonnehoang/eclipse-workspace/Assign2-Turtles/SimpleDrawRow.py
+SimpleTurtleShapes|1517976376000000000|/Users/lavonnehoang/eclipse-workspace/Assign2-Turtles/SimpleTurtleShapes.py
+SquaresAndCircles|1517973770000000000|/Users/lavonnehoang/eclipse-workspace/Assign2-Turtles/SquaresAndCircles.py
+TurtleShapes|1518503946000000000|/Users/lavonnehoang/eclipse-workspace/Assign2-Turtles/TurtleShapes.py
+ColorMyWorld|1517977102000000000|/Users/lavonnehoang/eclipse-workspace/Assign2-Turtles/ColorMyWorld.py
+-- END DISKCACHE
+-- START DICTIONARY
+6
+4=Snowpeople
+5=SimpleTurtleShapes
+6=SimpleDrawRow
+2=SquaresAndCircles
+3=TurtleShapes
+1=ColorMyWorld
+-- END DICTIONARY
+-- START TREE 1
+11
+cha|1|changeTurtle!10@
+dra|12|drawMany!18@drawOneSquare!10@drawOneHouse!26@drawMany!34@drawManyRandom!34@drawSquare!42@drawCircle!18@drawMany!10@drawSquare!18@drawCircle!42@drawOneSnowy!42@drawMany!50@
+hei|3|HEIGHT!11@HEIGHT!51@HEIGHT!19@
+lav|1|lavonne!27@
+num|3|num!51@num!19@num!11@
+siz|2|size!51@size!19@
+spa|2|SPACING!19@SPACING!51@
+t|1|t!43@
+wid|3|WIDTH!51@WIDTH!11@WIDTH!19@
+win|5|win!51@win!11@win!35@win!43@win!19@
+wn|1|wn!27@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

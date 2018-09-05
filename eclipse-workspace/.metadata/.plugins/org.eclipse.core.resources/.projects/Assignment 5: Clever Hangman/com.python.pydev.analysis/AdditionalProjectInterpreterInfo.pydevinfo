@@ -1,0 +1,29 @@
+-- VERSION_4
+-- START DISKCACHE_2
+/Users/lavonnehoang/eclipse-workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Assignment 5: Clever Hangman/com.python.pydev.analysis/v2_indexcache
+CleverHangmanTesting|1522891386000000000|/Users/lavonnehoang/eclipse-workspace/Assignment 5: Clever Hangman/CleverHangmanTesting.py
+CleverHangman|1522895996000000000|/Users/lavonnehoang/eclipse-workspace/Assignment 5: Clever Hangman/CleverHangman.py
+-- END DISKCACHE
+-- START DICTIONARY
+4
+2=CleverHangmanTesting
+3=TestCreateTemplate
+4=TestGetNewWordList
+1=CleverHangman
+-- END DICTIONARY
+-- START TREE 1
+8
+cre|1|createTemplate!10@
+deb|1|DEBUG!11@
+get|1|getNewWordList!10@
+pla|1|play!10@
+ran|1|randWord!10@
+rea|1|readWords!10@
+tes|2|TestCreateTemplate!17@TestGetNewWordList!17@
+upd|1|update!10@
+-- END TREE
+-- START TREE 2
+2
+out|2|outline!3&18@outline!4&18@
+tes|10|testNonBlankTemplateLetterNotInWord!3&18@testAlmostDoneTemplateLetterNotInWord!3&18@testShouldNotKeepCurrTemplate!4&18@testPreventGuess!4&18@testShouldKeepCurrTemplate!4&18@testBlankTemplateLetterIsInWord!3&18@testAlmostDoneTemplateLetterIsInWord!3&18@testNonBlankTemplateLetterIsInWord!3&18@testBlankTemplateLetterNotInWord!3&18@testNoChoicesLeft!4&18@
+-- END TREE

@@ -1,0 +1,33 @@
+-- VERSION_4
+-- START DISKCACHE_2
+/Users/lavonnehoang/eclipse-workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Lab5-Spring18/com.python.pydev.analysis/v2_indexcache
+DataReader|1519620404000000000|/Users/lavonnehoang/eclipse-workspace/Lab5-Spring18/DataReader.py
+Hangman|1519858748000000000|/Users/lavonnehoang/eclipse-workspace/Lab5-Spring18/Hangman.py
+Lab6|1520541434000000000|/Users/lavonnehoang/eclipse-workspace/Lab5-Spring18/Lab6.py
+-- END DISKCACHE
+-- START DICTIONARY
+3
+2=DataReader
+1=Hangman
+3=Lab6
+-- END DICTIONARY
+-- START TREE 1
+14
+all|1|allMatches!10@
+dat|1|data!19@
+dis|1|distance!26@
+duk|2|dukelat!19@dukelong!19@
+hav|1|haversine!18@
+mak|1|makeTemplate!10@
+mat|1|matches!10@
+min|1|minDistance!26@
+mos|1|mostfrequent!10@
+nea|1|nearby!18@
+pla|1|play!10@
+poi|1|points!27@
+rea|2|readit!18@readWords!10@
+wor|1|wordlist!11@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

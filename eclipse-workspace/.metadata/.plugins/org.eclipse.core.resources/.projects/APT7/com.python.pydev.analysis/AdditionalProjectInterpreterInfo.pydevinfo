@@ -1,0 +1,25 @@
+-- VERSION_4
+-- START DISKCACHE_2
+/Users/lavonnehoang/eclipse-workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/APT7/com.python.pydev.analysis/v2_indexcache
+PositiveID|1524158573000000000|/Users/lavonnehoang/eclipse-workspace/APT7/PositiveID.py
+EatDrink|1524149014000000000|/Users/lavonnehoang/eclipse-workspace/APT7/EatDrink.py
+InterestingParty|1524147367000000000|/Users/lavonnehoang/eclipse-workspace/APT7/InterestingParty.py
+-- END DISKCACHE
+-- START DICTIONARY
+3
+3=PositiveID
+2=EatDrink
+1=InterestingParty
+-- END DICTIONARY
+-- START TREE 1
+6
+bes|1|bestInvitation!10@
+dat|2|data!19@data!27@
+fir|1|first!11@
+max|1|maximumFacts!26@
+sec|1|second!11@
+win|1|winners!18@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

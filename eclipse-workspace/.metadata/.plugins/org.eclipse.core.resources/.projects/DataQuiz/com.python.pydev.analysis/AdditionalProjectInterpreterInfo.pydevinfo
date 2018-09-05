@@ -1,0 +1,20 @@
+-- VERSION_4
+-- START DISKCACHE_2
+/Users/lavonnehoang/eclipse-workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/DataQuiz/com.python.pydev.analysis/v2_indexcache
+DataQuiz|1524503424000000000|/Users/lavonnehoang/eclipse-workspace/DataQuiz/DataQuiz.py
+-- END DISKCACHE
+-- START DICTIONARY
+1
+1=DataQuiz
+-- END DICTIONARY
+-- START TREE 1
+5
+cou|1|count!11@
+don|1|donors!10@
+nam|1|name!11@
+rec|1|received!10@
+ver|1|verify!10@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

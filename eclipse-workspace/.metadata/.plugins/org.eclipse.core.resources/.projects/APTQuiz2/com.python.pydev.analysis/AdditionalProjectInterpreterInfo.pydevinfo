@@ -1,0 +1,26 @@
+-- VERSION_4
+-- START DISKCACHE_2
+/Users/lavonnehoang/eclipse-workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/APTQuiz2/com.python.pydev.analysis/v2_indexcache
+StringMessage|1523130116000000000|/Users/lavonnehoang/eclipse-workspace/APTQuiz2/StringMessage.py
+SimpleCommonInt|1523126367000000000|/Users/lavonnehoang/eclipse-workspace/APTQuiz2/SimpleCommonInt.py
+BordaCount|1523128328000000000|/Users/lavonnehoang/eclipse-workspace/APTQuiz2/BordaCount.py
+-- END DISKCACHE
+-- START DICTIONARY
+3
+3=StringMessage
+2=SimpleCommonInt
+1=BordaCount
+-- END DICTIONARY
+-- START TREE 1
+7
+bal|1|ballots!11@
+com|1|common!18@
+lim|1|limit!27@
+mes|1|message!26@
+num|1|numbers!19@
+win|1|winners!10@
+wor|1|words!27@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

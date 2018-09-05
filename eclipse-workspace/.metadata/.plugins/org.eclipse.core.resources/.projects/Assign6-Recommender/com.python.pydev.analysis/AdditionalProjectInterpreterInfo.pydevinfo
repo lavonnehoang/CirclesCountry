@@ -1,0 +1,30 @@
+-- VERSION_4
+-- START DISKCACHE_2
+/Users/lavonnehoang/eclipse-workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/Assign6-Recommender/com.python.pydev.analysis/v2_indexcache
+SmallDukeEatsReader|1523856276000000000|/Users/lavonnehoang/eclipse-workspace/Assign6-Recommender/SmallDukeEatsReader.py
+ellaRE|1524534768000000000|/Users/lavonnehoang/eclipse-workspace/Assign6-Recommender/ellaRE.py
+MovieReader|1524536382000000000|/Users/lavonnehoang/eclipse-workspace/Assign6-Recommender/MovieReader.py
+RecommenderEngine|1524534900000000000|/Users/lavonnehoang/eclipse-workspace/Assign6-Recommender/RecommenderEngine.py
+TestRecommender|1523856406000000000|/Users/lavonnehoang/eclipse-workspace/Assign6-Recommender/TestRecommender.py
+-- END DISKCACHE
+-- START DICTIONARY
+5
+5=SmallDukeEatsReader
+2=ellaRE
+4=MovieReader
+1=RecommenderEngine
+3=TestRecommender
+-- END DICTIONARY
+-- START TREE 1
+7
+ave|2|averages!10@averages!18@
+dri|1|driver!26@
+get|2|getData!34@getdata!42@
+ite|2|items!11@items!19@
+rat|2|ratings!19@ratings!11@
+rec|2|recommendations!18@recommendations!10@
+sim|2|similarities!18@similarities!10@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

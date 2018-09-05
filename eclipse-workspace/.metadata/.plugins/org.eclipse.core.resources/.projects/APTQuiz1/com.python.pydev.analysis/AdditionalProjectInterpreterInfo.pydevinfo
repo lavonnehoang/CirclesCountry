@@ -1,0 +1,22 @@
+-- VERSION_4
+-- START DISKCACHE_2
+/Users/lavonnehoang/eclipse-workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/APTQuiz1/com.python.pydev.analysis/v2_indexcache
+Tetrahedron|1517976150000000000|/Users/lavonnehoang/eclipse-workspace/APTQuiz1/Tetrahedron.py
+ClassSize|1517976528000000000|/Users/lavonnehoang/eclipse-workspace/APTQuiz1/ClassSize.py
+Baker|1517980698000000000|/Users/lavonnehoang/eclipse-workspace/APTQuiz1/Baker.py
+-- END DISKCACHE
+-- START DICTIONARY
+3
+3=Tetrahedron
+2=ClassSize
+1=Baker
+-- END DICTIONARY
+-- START TREE 1
+3
+amo|1|amount!10@
+lab|1|label!18@
+vol|1|volume!26@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

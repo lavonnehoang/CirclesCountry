@@ -1,0 +1,7 @@
+run
+hit
+explain
+torture
+giggle
+sleep
+

@@ -1,0 +1,22 @@
+-- VERSION_4
+-- START DISKCACHE_2
+/Users/lavonnehoang/eclipse-workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/APTDataQuiz/com.python.pydev.analysis/v2_indexcache
+DurhamReader|1524142070000000000|/Users/lavonnehoang/eclipse-workspace/APTDataQuiz/DurhamReader.py
+-- END DISKCACHE
+-- START DICTIONARY
+1
+1=DurhamReader
+-- END DICTIONARY
+-- START TREE 1
+7
+bed|1|BED_INDEX!11@
+cou|1|count_lines!10@
+dat|1|data!11@
+lin|1|lines!11@
+own|2|owners!10@OWNER_INDEX!11@
+sou|1|source!11@
+sqf|2|SQFT_INDEX!11@sqft!10@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

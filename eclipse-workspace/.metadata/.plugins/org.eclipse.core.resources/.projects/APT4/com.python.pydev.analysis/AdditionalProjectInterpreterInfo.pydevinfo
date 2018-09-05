@@ -1,0 +1,35 @@
+-- VERSION_4
+-- START DISKCACHE_2
+/Users/lavonnehoang/eclipse-workspace/.metadata/.plugins/org.eclipse.core.resources/.projects/APT4/com.python.pydev.analysis/v2_indexcache
+StartLetters|1519154619000000000|/Users/lavonnehoang/eclipse-workspace/APT4/StartLetters.py
+BagFitter|1519754263000000000|/Users/lavonnehoang/eclipse-workspace/APT4/BagFitter.py
+Pikachu|1519153889000000000|/Users/lavonnehoang/eclipse-workspace/APT4/Pikachu.py
+SandwichBar|1519712430000000000|/Users/lavonnehoang/eclipse-workspace/APT4/SandwichBar.py
+EatingGood|1519746734000000000|/Users/lavonnehoang/eclipse-workspace/APT4/EatingGood.py
+CarrotBoxes|1519745856000000000|/Users/lavonnehoang/eclipse-workspace/APT4/CarrotBoxes.py
+-- END DISKCACHE
+-- START DICTIONARY
+6
+5=StartLetters
+2=BagFitter
+3=Pikachu
+1=SandwichBar
+4=EatingGood
+6=CarrotBoxes
+-- END DICTIONARY
+-- START TREE 1
+10
+ava|1|available!11@
+bag|1|bags!18@
+che|1|check!26@
+how|2|howMany!34@howManyLetters!42@
+mea|1|meals!35@
+ord|1|orders!11@
+res|1|restaurant!35@
+the|1|theIndex!50@
+whi|1|whichOrder!10@
+x|1|x!19@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE
